@@ -23,6 +23,7 @@
 
 	<h2>
 		try editing <strong>src/routes/+page.svelte</strong>
+		<h2>Just playing arround LOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOL!!!!</h2>
 	</h2>
 
 	<Counter />
